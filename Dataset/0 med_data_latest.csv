@@ -20,7 +20,6 @@ id,brand_name,api,dosage,type,pack_size,brand
 22,cartia,aspirin,100mg,tablet,1,
 23,cartia,aspirin,100mg,tablet,1,
 24,cartia,aspirin,100mg,tablet,1,
-26,codral original cold&flu+cough,paracetamol$pseudoephedrine$dextromethorphan hydrobomide$chlorpheniramine,500mg$30mg$10mg$2mg,tablet,1,
 27,maxigesic,paracetamol$ibuprofen,500mg$150mg,tablet,1,
 28,maxigesic,paracetamol$ibuprofen,500mg$150mg,tablet,1,
 32,panadol with optizorb,paracetamol,500mg,tablet,1,
