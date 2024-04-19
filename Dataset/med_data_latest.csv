@@ -1,13 +1,10 @@
 id,brand_name,api,dosage,type,pack_size,brand
-1,codeine phosphate,codeine phosphate:pholcodine,30mg,tablet,20,(fm)
 2,senokot,sennosides,7.5mg,tablet,1,
 3,prunelax,sennosides,15mg,tablet,1,
 4,dulcolax,bisacodyl,5mg,tablet,1,
 5,favic,famiciclovir,500mg,tablet,1,
 6,aspro clear extra strength,aspirin,300mg,tablet,1,
 7,panadol with optizorb,paracetamol,500mg,tablet,1,
-8,codral cold & flu new formula,paracetamol$codeine phosphate:pholcodine$phenylephrine,500mg$9.5mg$5mg,tablet,1,
-9,codral day & night new formula,paracetamol$codeine phosphate:pholcodine$phenylephrine,500mg$9.5mg$5mg,tablet,1,
 10,duro-tuss chesty cough forte,bromhexine $guaiphenesin,200mg$8mg,tablet,1,
 11,sudafed sinus and nasal decongestant,pseudoephedrine,60mg,tablet,1,
 12,claratyne d,loratadine$pseudoephedrine sulfate,5mg$120mg,tablet,1,
@@ -23,13 +20,9 @@ id,brand_name,api,dosage,type,pack_size,brand
 22,cartia,aspirin,100mg,tablet,1,
 23,cartia,aspirin,100mg,tablet,1,
 24,cartia,aspirin,100mg,tablet,1,
-25,codral original cold&flu,paracetamol$codeine phosphate:pholcodine$pseudoephedrine,500mg$6mg$30mg,tablet,1,
 26,codral original cold&flu+cough,paracetamol$pseudoephedrine$dextromethorphan hydrobomide$chlorpheniramine,500mg$30mg$10mg$2mg,tablet,1,
 27,maxigesic,paracetamol$ibuprofen,500mg$150mg,tablet,1,
 28,maxigesic,paracetamol$ibuprofen,500mg$150mg,tablet,1,
-29,nurofen plus,ibuprofen$codeine phosphate:pholcodine,200mg$12.8mg,tablet,1,
-30,panadeine,codeine phosphate:pholcodine$paracetamol,8mg$500mg,tablet,1,
-31,panadeine extra,codeine phosphate:pholcodine$paracetamol,15mg$500mg,tablet,1,
 32,panadol with optizorb,paracetamol,500mg,tablet,1,
 33,panadol,paracetamol,500mg,tablet,1,
 34,panadol,paracetamol,500mg,tablet,1,
@@ -41,7 +34,6 @@ id,brand_name,api,dosage,type,pack_size,brand
 41,voltaren rapid 25,diclofenac potassium,25mg,tablet,20,
 42,voltaren rapid 25,diclofenac potassium,25mg,tablet,20,
 43,somac heartburn relief,pantoprazole,20mg,tablet,1,
-44,dolased,codeine phosphate:pholcodine$paracetamol$doxylamine succinate,10mg$500mg$5.1mg,tablet,1,
 45,megafol 0.5,folic acid,0.5mg,tablet,1,
 46,megafol 5,folic acid,5mg,tablet,1,
 47,zyrtec rapid acting,cetirizine,10mg,tablet,1,
@@ -51,8 +43,6 @@ id,brand_name,api,dosage,type,pack_size,brand
 51,aerius,desloratadine,5mg,tablet,1,
 52,chemists' own de worm,mebendazole,100mg,tablet,1,
 53,rennie spearmint flavour,calcium carbonate$magnesium carbonate,680mg$80mg,tablet,1,
-54,ranital 150mg,ranitidine,150mg,tablet,1,
-55,zantac 12 hour action,ranitidine,150mg,tablet,1,
 57,lacteeze,tilactase,51mg,tablet,1,
 58,donnatab,hyoscyamine sulfate$atropine sulfate$hyoscine hydrobromide,103.7mcg$19.4mcg$6.5mcg,tablet,1,
 59,buscopan specialised relief,hyoscine butylbromide,10mg,tablet,1,
@@ -162,7 +152,6 @@ id,brand_name,api,dosage,type,pack_size,brand
 195,otrivin 10ml,xylometazoline ,1mg/ml,nasal spray,1,
 196,otrivin junior 10ml,xylometazoline ,0.5mg/ml,nasal spray,1,
 197,glycerol suppositories,glycerol,2.8g,suppository,1,
-198,duro-tuss dry cough,pholcodine:pholcodine$cetylpyridinium chloride ,5.5mg$1.33mg,lozenge,1,
 199,strepsils,dichlorobenzyl alcohol$amylmetacresol ,1.2mg$600mcg,lozenge,1,
 200,strepsils sore throat and blocked nose,dichlorobenzyl alcohol$amylmetacresol$menthol ,1.2mg$600mcg$8mg,lozenge,1,
 201,difflam plus,benzydamine $lignocaine$ dichlorobenzyl alcohol ,3mg$4mg$1.2mg,lozenge,1,
@@ -202,16 +191,12 @@ id,brand_name,api,dosage,type,pack_size,brand
 255,nyal toothache drops 6ml,ethanol$phenol$benzocaine,0.225ml$100mg$50mg,liquid,1,
 259,benadryl chesty forte 200ml,guaiphenesin$phenylephine,100mg$1mg,liquid,1,
 260,benadryl mucus double action forte,guaiphenesin$phenylephine,100mg$5mg,liquid,1,
-261,benadryl dry tickly cough forte 200ml,pholcodine:pholcodine,4mg/ml,liquid,1,
 262,benadryl mucus relief +decon 200ml,guaiphenesin$phenylephine,100mg$5mg,liquid,1,
-264,duro-tuss expectorant 200ml,pholcodine:pholcodine$bromhexine,15mg$12mg,liquid,1,
 265,bisolvon chesty 250ml,bromhexine ,4mg,liquid,1,
 268,coloxyl oral drops 30ml,poloxamer,100mg/ml,liquid,1,
-271,duro-tuss dry cough forte 200ml,pholcodine:pholcodine,15mg,liquid,1,
 272,dymadon 1m - 2y 60ml,paracetamol,50mg,liquid,1,
 273,dymadon 2-12 y 100ml,paracetamol,250mg,liquid,1,
 274,dymadon 2-12 y 200ml,paracetamol,250mg,liquid,1,
-275,rikodeine 100ml,dehydrocodeine tartrate:pholcodine$sorbitol,19mg$4.4g,liquid,1,
 276,robitussin cough and chest congestion 200ml,guaiphenesin$dextromethorphan hydrobromide,200mg$30mg,liquid,1,
 277,robitussin dry cough forte 200ml,dextromethorphan hydrobromide,30mg,liquid,1,
 278,senega & ammonia mixture apf 14 200ml,ammonium bicarbonate,250mg,liquid,1,
@@ -233,8 +218,6 @@ id,brand_name,api,dosage,type,pack_size,brand
 304,vicks inhaler nasal stick,menthol$camphor,197mg$197mg,other,1,
 313,nurofen,ibuprofen,200mg,caplet,1,
 314,panadol extra optizorb,paracetamol$caffeine,500mg$65mg,caplet,1,
-315,mersyndol day strength,paracetamol$codeine phosphate:pholcodine,500mg$9.5mg,caplet,1,
-316,mersyndol caplets,paracetamol$codeine phosphate:pholcodine$doxylamine succinate,450mg$9.75mg$5mg,caplet,1,
 319,campral,acamprosate,333mg,tablet,180,(af)
 320,glucobay,acarbose,50mg,tablet,90,(bn)
 321,glucobay,acarbose,100mg,tablet,90,(bn)
@@ -455,7 +438,6 @@ id,brand_name,api,dosage,type,pack_size,brand
 545,plavix,clopidogrel,75mg,tablet,28,(sw)
 546,iscover,clopidogrel,75mg,tablet,28,(bq)
 547,exorex,coal tar,1g/100g,lotion,1,(gm)
-548,codeine linctus apf,codeine phosphate:pholcodine,25mg/5ml,oral liquid,1,(gc)
 549,lengout,colchicine,500mcg,tablet,30,(ln)
 556,cyclizine lactate,cyclizine lactate,50mg/1ml,ampoules,5,(..)
 557,neoral,cyclosporin,50mg,capsule,30,(nv)
@@ -1023,8 +1005,6 @@ id,brand_name,api,dosage,type,pack_size,brand
 1176,panadol osteo,paracetamol,665mg,tablet,96,(gc)
 1177,panamax,paracetamol,120mg/5ml,elixir,1,(sw)
 1178,panamax 240,paracetamol,240mg/5ml,elixir,1,(sw)
-1179,panadeine forte,paracetamol$codeine:pholcodine,500mg$30mg,tablet,20,(sw)
-1180,mersyndol forte,paracetamol$codeine:pholcodine$doxylamine,450mg$30mg$5mg,tablet,20,(av)
 1183,aropax,paroxetine,20mg,tablet,30,(gk)
 1184,abbocillin vk,phenoxymethylpenicillin,250mg,tablet,25,(si)
 1185,abbocillin vk film,phenoxymethylpenicillin,500mg,tablet,30,(si)
@@ -1129,12 +1109,6 @@ id,brand_name,api,dosage,type,pack_size,brand
 1290,ramipril-ga,ramipril,1.25mg,capsule,30,(gm)
 1291,ramipril-ga,ramipril,10mg,capsule,30,(gm)
 1292,triasyn ,ramipril$felodipine,5mg$5mg,tablet,30,(sw)
-1293,zantac,ranitidine,300mg,tablet,30,(gk)
-1294,zantac,ranitidine,150mg,tablet,60,(gk)
-1295,zantac efferv,ranitidine,150mg,tablet,2x15,(gk)
-1296,rani 2,ranitidine,150mg,tablet,60,(af)
-1297,rani 2,ranitidine,300mg,tablet,30,(af)
-1298,zantac,ranitidine,150mg/10ml,syrup,300ml,(gk)
 1299,edronax,reboxetine,4mg,tablet,60,(pf)
 1301,actonel,risedronate,30mg,tablet,28,(sw)
 1302,actonel once-a-week,risedronate,35mg,tablet,4,(sw)
