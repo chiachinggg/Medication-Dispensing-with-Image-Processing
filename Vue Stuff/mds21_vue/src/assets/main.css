@@ -1,0 +1,18 @@
+@import './base.css';
+
+#app {
+  max-width: 480px;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  padding: 0.5rem 2rem;
+  min-height: 100vh;
+  font-weight: normal;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+}
+
+/* ::-webkit-scrollbar {
+  width: 0.575rem !important;
+} */
