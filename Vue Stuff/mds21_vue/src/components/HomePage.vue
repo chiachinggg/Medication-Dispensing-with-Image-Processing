@@ -97,13 +97,20 @@ onMounted(() => {
 function setLoadingFalse() {
   loading.value = false
   step.value = 2
-  status.value = true
+  status.value = false
 }
 
 function handleReupload() {
   step.value = 1
   status.value = false
   image.value.src = '@/assets/image.png'
+
+  inputFile.value.addEventListener('change', function () {
+    const file = inputFile.value.files[0]
+    if (file) {
+      image.value.src = URL.createObjectURL(file)
+    }
+  })
 }
 
 function handleSubmit() {
