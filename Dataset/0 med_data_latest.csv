@@ -511,8 +511,8 @@ id,brand_name,api,dosage,type,pack_size,brand
 632,restavit,doxylamine succinate,25mg,tablet,20,
 635,trulicity,dulaglutide,1.5mg/0.5ml,injection,4,
 636,sustiva,efavirenz,600mg,tablet,30,
-637,oxis,eformoterol = formoterol,6mcg,turbuhaler,1,(ap)
-638,oxis,eformoterol = formoterol,12mcg,turbuhaler,1,(ap)
+637,oxis,eformoterol:formoterol,6mcg,turbuhaler,1,(ap)
+638,oxis,eformoterol:formoterol,12mcg,turbuhaler,1,(ap)
 639,renitec,enalapril,10mg,tablet,30,(mk)
 640,renitec m,enalapril,5mg,tablet,30,(mk)
 641,renitec,enalapril,20mg,tablet,30,(mk)
@@ -630,8 +630,8 @@ id,brand_name,api,dosage,type,pack_size,brand
 756,monoplus,fosinopril$hydrochlorothiazide,20mg$12.5mg,tablet,30,(bq)
 757,soframycin,framycetin,5mg,eye/ear drops,30,(sw)
 758,uremide,frusemide,40mg,tablet,100,(af)
-759,lasix,frusemide = furosemide,40mg,tablet,100,(sw)
-760,lasix m,frusemide = furosemide,20mg,tablet,50,(sw)
+759,lasix,frusemide:furosemide,40mg,tablet,100,(sw)
+760,lasix m,frusemide:furosemide,20mg,tablet,50,(sw)
 761,fucidin,fusidic acid,250mg,tablet,36,(cs)
 762,neurontin,gabapentin,300mg,capsule,100,(pf)
 763,nupentin,gabapentin,100mg,capsule,100,(af)
@@ -687,7 +687,7 @@ id,brand_name,api,dosage,type,pack_size,brand
 831,natrilix,indapamide,1.5mg,tablet,90,(se)
 832,indocid,indometacin,25mg,capsule,50,(as)
 833,indocid,indometacin,100mg,suppository,20,(as)
-834,arthrexin,indomethacin = indometacin,25mg,capsule,50,(af)
+834,arthrexin,indomethacin:indometacin,25mg,capsule,50,(af)
 837,novorapid vial,insulin aspart,100u/ml,injection,1,(no)
 838,novorapid flexpen,insulin aspart,100u/ml,injection,5,(nf)
 839,novomix 30 flexpen,insulin aspart$aspart  protamine,100u/ml,injection,5,(nf)
