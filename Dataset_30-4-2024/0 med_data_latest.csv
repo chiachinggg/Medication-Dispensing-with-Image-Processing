@@ -4,8 +4,8 @@ id,brand_name,api,dosage,type,pack_size,brand
 5,favic,famiciclovir,500mg,tablet,1,
 6,aspro clear extra strength,aspirin,300mg,tablet,1,
 7,panadol with optizorb,paracetamol,500mg,tablet,1,
-10,duro-tuss chesty cough forte,bromhexine hydrochloride$guaiphenesin,200mg$8mg,tablet,1,
-11,sudafed sinus and nasal decongestant,pseudoephedrine hydrochloride,60mg,tablet,1,
+10,duro-tuss chesty cough forte,bromhexine$guaiphenesin,200mg$8mg,tablet,1,
+11,sudafed sinus and nasal decongestant,pseudoephedrine,60mg,tablet,1,
 12,claratyne d,loratadine$pseudoephedrine sulfate,5mg$120mg,tablet,1,
 13,coloxyl 50,docusate sodium,50mg,tablet,1,
 14,coloxyl 120,docusate sodium,120mg,tablet,1,
@@ -14,7 +14,7 @@ id,brand_name,api,dosage,type,pack_size,brand
 17,viclofen,diclofenac sodium,25mg,tablet,1,
 19,aspro clear,aspirin,300mg,tablet,1,
 20,aspro clear,aspirin,300mg,tablet,1,
-21,bisolvon chesty forte,bromhexine hydrochloride,8mg,tablet,1,
+21,bisolvon chesty forte,bromhexine,8mg,tablet,1,
 23,cartia,aspirin,100mg,tablet,1,
 27,maxigesic,paracetamol$ibuprofen,500mg$150mg,tablet,1,
 28,maxigesic,paracetamol$ibuprofen,500mg$150mg,tablet,1,
@@ -27,8 +27,8 @@ id,brand_name,api,dosage,type,pack_size,brand
 45,megafol 0.5,folic acid,0.5mg,tablet,1,
 46,megafol 5,folic acid,5mg,tablet,1,
 47,zyrtec rapid acting,cetirizine,10mg,tablet,1,
-48,telfast 120,fexofenadine hydrochloride,120mg,tablet,1,
-49,telfast 180,fexofenadine hydrochloride,180mg,tablet,1,
+48,telfast 120,fexofenadine,120mg,tablet,1,
+49,telfast 180,fexofenadine,180mg,tablet,1,
 50,claratyne hayfever & allergy,loratadine,10mg,tablet,1,
 51,aerius,desloratadine,5mg,tablet,1,
 52,chemists' own de worm,mebendazole,100mg,tablet,1,
@@ -90,9 +90,9 @@ id,brand_name,api,dosage,type,pack_size,brand
 151,waxol ear drops 10ml,docusate sodium,0.5%w/v,ear drop,1,
 152,refresh tears plus 15ml,carmellose sodium,5mg/1ml,eye drop,1,
 153,refresh preservative free eye drops 0.4ml,polyvinyl alcohol$povidone,14mg$6mg/1ml,eye drop,1,
-154,visine advanced 15ml,tetrahydrozoline hydrochloride,0.05%w/v,eye drop,1,
+154,visine advanced 15ml,tetrahydrozoline,0.05%w/v,eye drop,1,
 156,murine clear eyes 15ml,naphazoline hcl,0.12mg/ml,eye drop,1,
-157,murine sore eyes 15ml,tetrahydrozoline hydrochloride,0.5mg/ml,eye drop,1,
+157,murine sore eyes 15ml,tetrahydrozoline,0.5mg/ml,eye drop,1,
 159,systane lubricant eye drops 0.8ml,polyethylene glycol$propylene glycol,4mg/ml$3mg/ml,eye drop,1,
 160,liquifilm tears 15ml,polyvinyl alcohol,14mg/1ml,eye drop,1,
 161,celluvisc lubricant eye drops intensive dry eye treatment 0.4ml,carmellose sodium,10mg/1ml,eye drop,1,
@@ -125,7 +125,7 @@ id,brand_name,api,dosage,type,pack_size,brand
 204,canesten 6 day pessary,clotrimazole,100mg,pessary,1,
 210,anusol ointment 50g ,zinc oxide$peru balsam$benzyl benzoate,10.75%w/w$1.88%w/w$1.25%w/w,ointment,1,
 211,rectinol haemorrhoidal ointment 50g,zinc oxide$cinchocaine,200mg$5mg,ointment,1,
-212,proctosedyl ointment 15g,hydrocortisone$cinchocaine hydrochloride,5mg$5mg,ointment,1,
+212,proctosedyl ointment 15g,hydrocortisone$cinchocaine,5mg$5mg,ointment,1,
 213,microlax 5ml,sodium citrate$sodium lauryl sulfoacetate$sorbitol,90mg/ml$9mg/ml$625mg/ml,enema,1,
 216,bonjela 15g ,choline salicylate,87mg/g,gel,1,
 217,sedagel 30g,choline salicylate$menthol $cetalkonium chloride,8.7%w/w$0.057%w/w$0.01%w/w,gel,1,
@@ -137,8 +137,7 @@ id,brand_name,api,dosage,type,pack_size,brand
 230,quellada head lice treatment 100ml,permethrin,10mg/ml,lotion,1,
 234,vicks inhaler 0.5ml,menthol$camphor,197mg$197mg,inhaler,1,
 235,nilstat oral drops 24ml,nystatin,100000i.u.,oral drops,1,
-241,nizoral 2% 200ml,ketoconazole,20mg/g,shampoo,1,
-247,solveasy tinea spray 16ml,terbinafine hydrochloride,1%w/w,spray,1,
+247,solveasy tinea spray 16ml,terbinafine,1%w/w,spray,1,
 248,wart-off paint 6ml,salicylic acid$lactic acid$podophyllum resin$chlorhexidine$chlorbutol$ethanol,20%w/v$12.5%w/v$10%w/v$0.5%w/v$0.5%w/v$12.5%w/v,paint,1,
 249,oral-eze dental emergency toothache medication 5ml,benzocaine$clove bud oil$ethanol,7.5%w/v$19.0%v/v$18.0%v/v,solution,1,
 250,pinetarsol solution 500ml,tar$triethanolamine lauryl sulfate,2.3%w/w$6%w/w,solution,1,
@@ -152,91 +151,35 @@ id,brand_name,api,dosage,type,pack_size,brand
 273,dymadon 2-12 y 100ml,paracetamol,250mg,liquid,1,
 276,robitussin cough and chest congestion 200ml,guaiphenesin$dextromethorphan hydrobromide monohydrate,100mg/5ml$15mg/5ml,liquid,1,
 277,robitussin dry cough forte 200ml,dextromethorphan hydrobromide,30mg,liquid,1,
-278,senega & ammonia mixture apf 14 200ml,ammonium bicarbonate,250mg,liquid,1,
-279,children's claratyne 150ml,loratadine,5mg,liquid,1,
-280,loceryl nail lacquer,amorolfine,5%,liquid,1,
+280,loceryl nail lacquer,amorolfine,5%w/v,liquid,1,
 281,duofilm solution 15ml,salicylic acid$lactic acid,16/7%w/w$16.7%w/w,liquid,1,
-282,daktarin tincture 30ml,miconazole,20mg/ml,liquid,1,
-286,mylanta antacid original 500ml,aluminium hydroxide$magnesium hydroxide$simethicone,400mg$400mg$40mg,liquid,1,
-287,mylanta antacid double strength 500ml,aluminium hydroxide$magnesium hydroxide$simethicone,800mg$800mg$60mg,liquid,1,
-288,ferro-liquid,ferrous sulfate,30mg/ml,liquid,1,
-292,gaviscon cool 300ml,sodium alginate$sodium bicarbonate$calcium carbonate,500mg$267mg$160mg,oral liquid,1,
-293,gaviscon double strength 500ml,sodium alginate$potassium bicarbonate$calcium carbonate,1000mg$200mg$200mg,oral liquid,1,
-295,apo health children's paracetamol 1-5yrs 200ml,paracetamol,24mg/ml,oral liquid,1,
 296,apo health children's paracetamol 6-12 yrs 200ml,paracetamol,48mg/ml,oral liquid,1,
-297,laxettes,sennosides,12mg,other,1,
 299,femzole duo 1 capsule/10g cream ,fluconazole$clotrimazole,150mg$10mg/g,other,1,
-300,canesten once pessary + cream,clotrimazole,500mg$10mg/g,other,1,
-301,combantrin chocolate squares,pyrantel,100mg,other,1,
-304,vicks inhaler nasal stick,menthol$camphor,197mg$197mg,other,1,
-313,nurofen,ibuprofen,200mg,caplet,1,
 314,panadol extra optizorb,paracetamol$caffeine,500mg$65mg,caplet,1,
-319,campral,acamprosate,333mg,tablet,180,(af)
 320,glucobay,acarbose,50mg,tablet,90,(bn)
 321,glucobay,acarbose,100mg,tablet,90,(bn)
-322,diamox,acetazolamide,250mg,tablet,100,(si)
 323,zovirax,aciclovir,200mg,tablet,90,(gk)
-324,ozvir,aciclovir,200mg,tablet,90,(ra)
-325,aciclovir,aciclovir,250ml,solution,5,(..)
-326,humira pfs,adalimumab,40mg/0.8ml,injection,1,(ab)
-327,differin,adapalene,1mg/g,cream,1,(ga)
-328,differin,adapalene,1mg/g,gel,1,(ga)
-329,epiduo ,adapalene$benzoyl peroxide,1mg/g$25mg/g,gel,1,(ga)
-330,epipen adult,adrenaline,300mcg/0.3ml,injection,1,(al)
-331,epipen junior,adrenaline,150mcg,injection,1,(al)
-332,adrenaline,adrenaline,1mg/1ml,ampoules,5,(..)
-333,valdoxan,agomelatine,25mg,tablet,28,(..)
-334,fosamax plus d-cal,alendronate$colecalciferol$calcium carbonate,70mg$140mcg$500mg,tablet,1,(mk)
-335,dronalen plus 70/140,alendronate$colecalciferol,70mg$140mcg,tablet,4,(gm)
-336,fosamax once weekly,alendronate sodium,70mg,tablet,4,(mk)
-337,fosamax,alendronate sodium,40mg,tablet,30,(mk)
-338,fosamax plus,alendronate sodium$colecalciferol,70mg/70mcg,tablet,4,(mk)
-339,fosamax plus,alendronate sodium$colecalciferol,70mg/140mcg,tablet,4,(mk)
-340,progout,allopurinol,300mg,tablet,60,(af)
 341,zyloprim,allopurinol,300mg,tablet,60,(si)
-342,zyloprim,allopurinol,100mg,tablet,200,(si)
-343,progout,allopurinol,100mg,tablet,100,(af)
 344,kalma,alprazolam,0.25mg,tablet,50,(af)
 345,kalma,alprazolam,0.5mg,tablet,50,(af)
-346,xanax,alprazolam,250mcg,tablet,50,(pf)
-347,xanax,alprazolam,500mcg,tablet,30,(pf)
+346,xanax,alprazolam,0.25mg,tablet,50,(pf)
+347,xanax,alprazolam,0.5mg,tablet,30,(pf)
 348,xanax,alprazolam,1mg,tablet,50,(pf)
-349,kalma,alprazolam,1mg,tablet,50,(af)
 350,xanax tabri-score,alprazolam,2mg,tablet,50,(pf)
-351,kalma,alprazolam,2mg,tablet,50,(af)
-352,caverject impulse,alprostadil,10mcg,injection,1,(ph)
 353,actilyse,alteplase,10mg,powder,1,(..)
 354,actilyse,alteplase,50mg,powder,1,(..)
-355,gastrogel,aluminium hydroxide$magnesium hydroxide$magnesium tricilicate,500mg$240mg$240mg,suspension,1,(fm)
-356,mylanta p,aluminium hydroxide$magnesium hydroxide$simethicone,400mg$400mg$40mg,suspension,1,(jt)
-357,symmetrel,amantadine,100mg,capsule,100,(nv)
-358,kaluril,amiloride,5mg,tablet,50,(af)
-359,moduretic,amiloride$hydrochlorothiazide,5mg$50mg,tablet,50,(as)
-360,aratac,amiodarone,200mg,tablet,30,(af)
-361,aratac,amiodarone,100mg,tablet,30,(af)
-362,cordarone x intravenous,amiodarone $benzyl alcohol$polysorbate 80,150mg$60mg$300mg,ampoules,6,(..)
-363,solian,amisulpride,400mg,tablet,60,(sw)
-364,solian,amisulpride,200mg,tablet,60,(sw)
-365,solian,amisulpride,100mg,tablet,30,(sw)
-366,endep,amitriptyline,50mg,tablet,50,(af)
-367,endep,amitriptyline,10mg,tablet,50,(af)
-368,endep,amitriptyline,25mg,tablet,50,(af)
+357,symmetrel,amantadine hcl,100mg,capsule,100,(nv)
+359,novadoz,abiraterone acetate,250mg,tablet,120,
 369,norvasc,amlodipine,10mg,tablet,30,(pf)
 370,norvasc,amlodipine,5mg,tablet,30,(pf)
-371,norvapine,amlodipine,5mg,tablet,30,(gn)
-372,norvapine,amlodipine,10mg,tablet,30,(gn)
-373,exforge,amlodipine$valsartan,5mg$80mg,tablet,28,(nv)
-374,exforge,amlodipine$valsartan,5mg$160mg,tablet,28,(nv)
-375,exforge,amlodipine$valsartan,10mg$160mg,tablet,28,(nv)
-376,exforge hct,amlodipine$valsartan$hydrochlorothiazide,10mg$160mg$12.5mg,tablet,28,(nv)
-377,amoxycillin sandoz,amoxycillin,1000mg,tablet,14,(bg)
+372,amoxycillin sandoz,amoxycillin,875mg,tablet,100,
+373,amoxycillin sandoz,amoxycillin,125mg/5ml,oral suspension,1,
+374,amoxycillin sandoz,amoxycillin,200mg/5ml,oral suspension,1,
+375,amoxycillin sandoz,amoxycillin,250mg/5ml,oral suspension,1,
+376,amoxycillin sandoz,amoxycillin,400mg/5ml,oral suspension,1,
+377,amoxycillin sandoz,amoxycillin,500mg,tablet,14,(bg)
 378,amoxil,amoxycillin,250mg,capsule,20,(gk)
-379,amoxil,amoxycillin,500mg,capsule,20,(gk)
-380,amoxil forte,amoxycillin,250mg/5ml,syrup,1,(gk)
-381,amoxil,amoxycillin,125mg/5ml,syrup,1,(gk)
 382,amoxil paediatric,amoxycillin,100mg/ml,syrup,1,(gk)
-383,maxamox,amoxycillin,500mg/5ml,syrup,1,(sz)
-384,amoxicillin and clavulanic acid,amoxycillin$clavulanic acid,1000mg$200mg,powder,10,(..)
 385,cm amoxycillin/clav,amoxycillin$clavulanic acid,875mg$125mg,tablet,10,(ch)
 386,maxamox bc,amoxycillin,1000mg,tablet,1,(sz)
 387,tw amoxycillin,amoxycillin,500mg,capsule,20,(tw)
