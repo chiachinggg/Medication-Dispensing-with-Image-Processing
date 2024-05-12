@@ -80,7 +80,6 @@ bisoprolol fumarate
 brimonidine
 bromazepam
 bromhexine
-bromhexine 
 bromocriptine
 budesonide
 bumetanide
@@ -202,6 +201,7 @@ econazole nitrate
 efavirenz
 eformoterol
 eformoterol = formoterol
+formoterol
 elvitegravir
 emtricitabine
 enalapril
@@ -256,6 +256,7 @@ fosinopril
 framycetin
 frusemide
 frusemide = furosemide
+furosemide
 fusidic acid
 gabapentin
 galantamine
@@ -292,6 +293,7 @@ imiquimod
 indapamide
 indometacin
 indomethacin = indometacin
+indomethacin
 insulin aspart
 insulin detemir
 insulin glargine
@@ -386,7 +388,6 @@ moxonidine
 mupirocin
 mupirocin 
 naltrexone
-nan
 naphazoline 
 naphazoline hcl
 naproxen

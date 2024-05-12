@@ -1,10 +1,8 @@
 id,brand_name,api,dosage,type,pack_size,brand
-2,senokot,sennosides,7.5mg,tablet,1,
 4,dulcolax,bisacodyl,5mg,tablet,1,
 5,favic,famiciclovir,500mg,tablet,1,
-6,aspro clear extra strength,aspirin,300mg,tablet,1,
 7,panadol with optizorb,paracetamol,500mg,tablet,1,
-10,duro-tuss chesty cough forte,bromhexine$guaiphenesin,200mg$8mg,tablet,1,
+10,duro-tuss chesty cough forte,bromhexine$guaifenesin:guaiphenesin,200mg$8mg,tablet,1,
 11,sudafed sinus and nasal decongestant,pseudoephedrine,60mg,tablet,1,
 12,claratyne d,loratadine$pseudoephedrine sulfate,5mg$120mg,tablet,1,
 13,coloxyl 50,docusate sodium,50mg,tablet,1,
@@ -76,11 +74,10 @@ id,brand_name,api,dosage,type,pack_size,brand
 132,panadol children's 1 mth - 2 years baby drops 20ml,paracetamol,100mg/1ml,mixture,1,
 134,nurofen for children baby 3+ months 50ml,ibuprofen,200mg/5ml,suspension,1,
 135,nurofen for children 5-12 years 200ml,ibuprofen,200mg/5ml,suspension,1,
-137,panadol children's 1-5 years colourfree 100ml,paracetamol,24mg/1ml,suspension,1,
-138,panadol children's 1-5 years colourfree 200ml,paracetamol,24mg/1ml,suspension,1,
-139,panadol children's 5-12 years colourfree 100ml,paracetamol,48mg/1ml,suspension,1,
+137,panadol children's 1-5 years colourfree 100ml,paracetamol,24mg/ml,suspension,1,
+138,panadol children's 1-5 years colourfree 200ml,paracetamol,24mg/ml,suspension,1,
+139,panadol children's 5-12 years colourfree 100ml,paracetamol,48mg/ml,suspension,1,
 140,panadol children's 5-12 years colourfree 200ml,paracetamol,48mg/1ml,suspension,1,
-141,vermox 15ml,mebendazole,100mg/5ml,suspension,1,
 144,dulcogas relieves gas and bloating,simethicone,125mg,sachet,1,
 145,gaviscon infant,sodium alginate$magnesium alginate,225mg$87.5mg,sachet,1,
 146,earclear ear ache relief 15ml,phenazone$benzoncaine,5.4%$1.4%,ear drop,1,
@@ -88,43 +85,32 @@ id,brand_name,api,dosage,type,pack_size,brand
 148,aqua ear solution 35ml,acetic acid-glacial$isopropyl alcohol,17.3mg/ml$634mg/ml,ear drop,1,
 149,auralgan ear drops 15ml,phenazone$benzoncaine,54mg$14mg,ear drop,1,
 151,waxol ear drops 10ml,docusate sodium,0.5%w/v,ear drop,1,
-152,refresh tears plus 15ml,carmellose sodium,5mg/1ml,eye drop,1,
-153,refresh preservative free eye drops 0.4ml,polyvinyl alcohol$povidone,14mg$6mg/1ml,eye drop,1,
+152,refresh tears plus 15ml,carmellose sodium,5mg,eye drop,1,
+153,refresh preservative free eye drops 0.4ml,polyvinyl alcohol$povidone,14mg$6mg,eye drop,1,
 154,visine advanced 15ml,tetrahydrozoline,0.05%w/v,eye drop,1,
 156,murine clear eyes 15ml,naphazoline hcl,0.12mg/ml,eye drop,1,
 157,murine sore eyes 15ml,tetrahydrozoline,0.5mg/ml,eye drop,1,
-159,systane lubricant eye drops 0.8ml,polyethylene glycol$propylene glycol,4mg/ml$3mg/ml,eye drop,1,
-160,liquifilm tears 15ml,polyvinyl alcohol,14mg/1ml,eye drop,1,
-161,celluvisc lubricant eye drops intensive dry eye treatment 0.4ml,carmellose sodium,10mg/1ml,eye drop,1,
-163,bion tears lubricant eye drops dry eyes 0.4ml,dextran$hypromellose,701mg/ml$3mg/ml,eye drop,1,
-164,celluvisc lubricant eye drops long lasting dry eye relief 0.4ml,carmellose sodium,5mg/1ml,eye drop,1,
+160,liquifilm tears 15ml,polyvinyl alcohol,14mg,eye drop,1,
+161,celluvisc lubricant eye drops intensive dry eye treatment 0.4ml,carmellose sodium,10mg,eye drop,1,
+163,bion tears lubricant eye drops dry eyes 0.4ml,dextran$hypromellose,1mg/ml$3mg/ml,eye drop,1,
+164,celluvisc lubricant eye drops long lasting dry eye relief 0.4ml,carmellose sodium,5mg,eye drop,1,
 165,genteal moisturising  eye drops 15ml,hypromellose,3mg/g,eye drop,1,
 166,optive lubricant eye drops 15ml,carmellose sodium$glycerin,5mg/ml$9mg/ml,eye drop,1,
 167,naphcon-a allergy eye relief 15ml,naphazoline $pheniramine maleate,0.25mg/ml$3mg/ml,eye drop,1,
-168,zaditen 2.5ml,ketotifen,250mcg/ml,eye drop,1,
-169,albalon a allergy eye drops 15ml,naphazoline $antazoline phosphate,500mcg/1ml$5mg/1ml,eye drop,1,
-174,eno lemon 200g,sodium bicarbonate$sodium carbonate$citric acid anhydrous,2.29g$0.50g$2.16g,oral powder,1,
 175,poly gel lubricating eye gel 0.5g,carbomer,3mg/g,eye gel,1,
 176,genteal moisturising  eye gel 10g,hypromellose$carbomer 980,3mg/g$2.2mg/g,eye gel,1,
 177,rhinocort hayfever 60 sprays,budesonide,32mcg,nasal spray,1,
 180,sudafed nasal decongestant,oxymetazoline ,500mcg/ml,nasal spray,1,
 182,fess nasal spray 75ml,sodium chloride,9mg/ml,nasal spray,1,
 183,otrivin plus 10ml,xylometazoline$ipratroium bromide,0.5mg/ml$0.6mg/ml,nasal spray,1,
-185,atrovent nasal forte 15ml,ipratroium bromide,44mcg,nasal spray,1,
 186,drixine decongesant - 12hr relief 15ml,oxymetazoline ,500mcg/ml,nasal spray,1,
-188,spray tish nasal decongestant 15ml,tramazoline ,82mcg,nasal spray,1,
-189,telnase 120 sprays,triamcinolone acetonide,55mcg,nasal spray,1,
-191,dimetapp 20ml,oxymetazoline ,500mcg,nasal spray,1,
 192,fess little noses spray 15ml,sodium chloride,9mg/ml,nasal spray,1,
 195,otrivin 10ml,xylometazoline ,1mg/ml,nasal spray,1,
 196,otrivin junior 10ml,xylometazoline ,0.5mg/ml,nasal spray,1,
-197,glycerol suppositories,glycerol,2.8g,suppository,1,
 199,strepsils,dichlorobenzyl alcohol$amylmetacresol ,1.2mg$600mcg,lozenge,1,
 201,difflam plus,benzydamine $lignocaine$ dichlorobenzyl alcohol ,3mg$4mg$1.2mg,lozenge,1,
-203,strepsils plus,benzydamine$lignocaine$dichlorobenzyl alcohol ,10mg$1.2mg$600mcg,lozenge,1,
 204,canesten 6 day pessary,clotrimazole,100mg,pessary,1,
 210,anusol ointment 50g ,zinc oxide$peru balsam$benzyl benzoate,10.75%w/w$1.88%w/w$1.25%w/w,ointment,1,
-211,rectinol haemorrhoidal ointment 50g,zinc oxide$cinchocaine,200mg$5mg,ointment,1,
 212,proctosedyl ointment 15g,hydrocortisone$cinchocaine,5mg$5mg,ointment,1,
 213,microlax 5ml,sodium citrate$sodium lauryl sulfoacetate$sorbitol,90mg/ml$9mg/ml$625mg/ml,enema,1,
 216,bonjela 15g ,choline salicylate,87mg/g,gel,1,
@@ -134,23 +120,15 @@ id,brand_name,api,dosage,type,pack_size,brand
 220,benzac ac 10% 50gm,benzoyl peroxide,100mg/g,gel,1,
 222,soov bite 25g,lignocaine$cetrimide,3%w/w$0.5%w/w,gel,1,
 223,difflam mouth gel 10g,benzydamine$cetylpyridium chloride,10mg$1mg,gel,1,
-230,quellada head lice treatment 100ml,permethrin,10mg/ml,lotion,1,
 234,vicks inhaler 0.5ml,menthol$camphor,197mg$197mg,inhaler,1,
-235,nilstat oral drops 24ml,nystatin,100000i.u.,oral drops,1,
 247,solveasy tinea spray 16ml,terbinafine,1%w/w,spray,1,
-248,wart-off paint 6ml,salicylic acid$lactic acid$podophyllum resin$chlorhexidine$chlorbutol$ethanol,20%w/v$12.5%w/v$10%w/v$0.5%w/v$0.5%w/v$12.5%w/v,paint,1,
 249,oral-eze dental emergency toothache medication 5ml,benzocaine$clove bud oil$ethanol,7.5%w/v$19.0%v/v$18.0%v/v,solution,1,
-250,pinetarsol solution 500ml,tar$triethanolamine lauryl sulfate,2.3%w/w$6%w/w,solution,1,
 251,kp 24 medicated foam 100ml,malathion,1%w/w,solution,1,
 254,benzac ac wash 130ml,benzoyl peroxide,50mg/g,rinse,1,
-260,benadryl mucus double action forte,guaiphenesin$phenylephine,100mg$3mg,liquid,1,
-262,benadryl mucus relief +decon 200ml,guaiphenesin$phenylephine,100mg$5mg,liquid,1,
 265,bisolvon chesty 250ml,bromhexine ,4mg,liquid,1,
 268,coloxyl oral drops 30ml,poloxamer,100mg/ml,liquid,1,
 272,dymadon 1m - 2y 60ml,paracetamol,50mg/ml,liquid,1,
 273,dymadon 2-12 y 100ml,paracetamol,250mg,liquid,1,
-276,robitussin cough and chest congestion 200ml,guaiphenesin$dextromethorphan hydrobromide monohydrate,100mg/5ml$15mg/5ml,liquid,1,
-277,robitussin dry cough forte 200ml,dextromethorphan hydrobromide,30mg,liquid,1,
 280,loceryl nail lacquer,amorolfine,5%w/v,liquid,1,
 281,duofilm solution 15ml,salicylic acid$lactic acid,16/7%w/w$16.7%w/w,liquid,1,
 296,apo health children's paracetamol 6-12 yrs 200ml,paracetamol,48mg/ml,oral liquid,1,
@@ -218,8 +196,8 @@ id,brand_name,api,dosage,type,pack_size,brand
 480,capecitabine (drla),capecitabine,150mg,tablet,60,(da)
 488,viscotears,carbomer,2mg/g,eye gel,1,(nv)
 489,poly gel,carbomer,3mg/g,eye gel,1,(aq)
-494,refresh tears plus,carmellose sodium,5mg/1ml,eye drop,1,(ag)
-495,refresh liquigel,carmellose sodium,10mg/1ml,eye drop,1,(ag)
+494,refresh tears plus,carmellose sodium,5mg,eye drop,1,(ag)
+495,refresh liquigel,carmellose sodium,10mg,eye drop,1,(ag)
 499,cefepime-aft,cefepime ,1g,powder,1,(..)
 503,ceftriaxone-aft,ceftriaxone,2g,powder,1,(..)
 504,zinnat,cefuroxime,250mg,tablet,20,(gk)
@@ -237,7 +215,7 @@ id,brand_name,api,dosage,type,pack_size,brand
 538,rivotril,clonazepam,2mg,tablet,100,(ro)
 541,rivotril,clonazepam,2.5mg/ml,mixture,1,(ro)
 542,rivotril,clonazepam,1mg/1ml,ampoules,10,(..)
-556,cyclizine lactate,cyclizine lactate,50mg/ml,ampoules,5,(..)
+556,cyclizine lactate,cyclizine lactate,50mg,ampoules,5,(..)
 579,valium,diazepam,2mg,tablet,50,(ro)
 580,valium,diazepam,5mg,tablet,50,(ro)
 583,solaraze,diclofenac,3%w/w,gel,1,(cs)
@@ -300,15 +278,12 @@ id,brand_name,api,dosage,type,pack_size,brand
 828,tolerade 25,imipramine,25mg,tablet,50,(pq)
 832,indocid,indometacin,25mg,capsule,50,(as)
 833,indocid,indometacin,100mg,suppository,20,(as)
-845,toujeo,insulin glargine,300iu/ml,injection,5,
 867,ferrum h,iron polymaltose,318mg,injection,1,(as)
 878,roaccutane,isotretinoin,20mg,capsule,60,(ro)
 885,oruvail,ketoprofen,200mg,capsule,28,(av)
 892,lamictal,lamotrigine,50mg,tablet,56,(gk)
 893,lamictal,lamotrigine,100mg,tablet,56,(gk)
 894,lamictal,lamotrigine,200mg,tablet,56,(gk)
-898,xalatan,latanoprost,50mcg/ml,eye drop,1,(pf)
-899,xalacom,latanoprost$timolol,50mcg/ml$5mg/ml,eye drop,1,(pf)
 901,arava,leflunomide,20mg,tablet,30,(sw)
 908,keppra,levetiracetam,250mg,tablet,60,(uc)
 909,keppra,levetiracetam,500mg,tablet,60,(uc)
@@ -324,7 +299,6 @@ id,brand_name,api,dosage,type,pack_size,brand
 979,glucophage,metformin,850mg,tablet,60,(mq)
 990,ritalin la,methylphenidate,20mg,capsule,30,(nv)
 997,maxolon,metoclopramide,10mg,tablet,25,(vt)
-998,maxolon,metoclopramide,10mg/2ml,injection,10,(vt)
 1007,flagyl,metronidazole,200mg,tablet,21,(sw)
 1010,flagyl,metronidazole,400mg,tablet,21,(sw)
 1017,minomycin,minocycline,50mg,tablet,60,(si)
@@ -366,7 +340,6 @@ id,brand_name,api,dosage,type,pack_size,brand
 1187,permax,pergolide mesylate,1mg,tablet,100,(as)
 1189,neulactil,pericyazine,2.5mg,tablet,100,(sw)
 1190,neulactil,pericyazine,10mg,tablet,100,(sw)
-1191,pethidine (dbl),pethidine,100mg/2ml,injection,5,(ap)
 1193,cilicaine vk,phenoxymethylpenicillin,500mg,capsule,50,(ap)
 1194,cilicaine vk,phenoxymethylpenicillin,250mg,capsule,50,(ap)
 1209,actos,pioglitazone,45mg,tablet,28,(ly)
@@ -395,7 +368,7 @@ id,brand_name,api,dosage,type,pack_size,brand
 1333,biaxsig,roxithromycin,300mg,tablet,5,(av)
 1334,rulide,roxithromycin,300mg,tablet,5,(sw)
 1349,renagel,sevelamer,800mg,tablet,180,(gz)
-1376,sodium bicarbonate,sodium bicarbonate,8.40%,injection,10,(..)
+1376,sodium bicarbonate,sodium bicarbonate,8.4%,injection,10,(..)
 1379,fucidin,sodium fusidate,2%w/w,ointment,1,(cs)
 1390,sotacor,sotalol,80mg,tablet,60,(fm)
 1391,solavert,sotalol ,80mg,tablet,60,(si)
