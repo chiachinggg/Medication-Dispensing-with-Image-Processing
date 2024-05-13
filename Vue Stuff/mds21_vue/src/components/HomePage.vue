@@ -56,11 +56,11 @@
   >
     <FlexCol>
       <FlexRow class="fs-2 fw-bold justify-content-center"> Results: </FlexRow>
-      <FlexRow class="fs-3 fw-bold justify-content-center">Paracetamol 500g</FlexRow>
+      <FlexRow class="fs-3 fw-bold justify-content-center">{{api}} {{ dosage }}</FlexRow>
       <FlexRow class="py-4">
         <img :src="tempBlobUrl" alt="result-image"/>
       </FlexRow>
-      <FlexRow class="fs-4 fw-bold justify-content-center"> Dosage: 500mg </FlexRow>
+      <FlexRow class="fs-4 fw-bold justify-content-center"> Dosage: {{ dosage }} </FlexRow>
       <FlexRow class="fs-4 fw-bold justify-content-center"> Side Effects: xxxxxx </FlexRow>
       <FlexRow class="pt-4 justify-content-center">
         <button class="btn btn-mds" @click="reupload()">UPLOAD A NEW IMAGE</button>
@@ -83,11 +83,15 @@ const imgDisplay = ref(null)
 const tempBlobUrl = ref(null)
 const inputFile = ref(null)
 
+const api = ref(null)
+const dosage = ref(null)
+
 function inputChanged() {
   const file = inputFile.value.files[0]
   if (file) {
     imgDisplay.value.src = URL.createObjectURL(file)
     tempBlobUrl.value = imgDisplay.value.src
+    console.log(tempBlobUrl.value)
   }
 }
 
@@ -103,6 +107,24 @@ function handleSubmit() {
 
 function storeImgToFolder(){
   const file = inputFile.value.files[0]
+  console.log(file.type)
+
+  // const formData = new FormData();
+  // formData.append('image', file)
+
+  // try {
+  //   const response = await axios.post('/store_image/', formData, {
+  //     headers: {
+  //       'Content-Type': 'multipart/form-data'
+  //     }
+  //   });
+  //   console.log('Image uploaded successfully', response.data);
+  //   success.value = true
+  // } catch (error) {
+  //   console.error('Error uploading image:', error);
+  //   success.value = false
+  // }
+  
   const reader = new FileReader()
   reader.readAsDataURL(file)
   reader.onload = function() {
@@ -113,6 +135,13 @@ function storeImgToFolder(){
       if (res.error) {
         success.value = false
       } else {
+        if (res.result[0].length === 1){
+          api.value = res.result[0][0]
+        } else {
+          api.value = res.result[0].join(', ')
+        }
+          
+        dosage.value = res.result[1]
         success.value = true
       }
     })

@@ -39,6 +39,7 @@ export async function storeImageToFolder(base64, filename) {
             body: JSON.stringify({image: base64, filename})
         })
         const data = await response.json()
+        console.log(data)
         return data
     } catch (error) {
         console.error('Error:', error)
