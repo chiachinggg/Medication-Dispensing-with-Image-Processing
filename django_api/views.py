@@ -110,6 +110,8 @@ def store_image(request):
         file_path = 'Dataset/temp/' + filename
         image.save(file_path)
 
+        # cc add here
+
         preprocessed_path = preprocess_image(file_path, filename)
         result = model(preprocessed_path)
 
