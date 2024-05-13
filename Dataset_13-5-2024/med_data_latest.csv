@@ -1,0 +1,523 @@
+id,brand_name,api,dosage,type,pack_size,brand
+1,dulcolax,bisacodyl,5mg,tablet,1,
+2,favic,famciclovir,500mg,tablet,1,
+3,panadol with optizorb,paracetamol,500mg,tablet,1,
+4,duro-tuss chesty cough forte,bromhexine$guaifenesin:guaiphenesin,8mg$200mg,tablet,1,
+5,sudafed sinus and nasal decongestant,pseudoephedrine,60mg,tablet,1,
+6,claratyne d,loratadine$pseudoephedrine sulfate,5mg$120mg,tablet,1,
+7,coloxyl 50,docusate,50mg,tablet,1,
+8,coloxyl 120,docusate,120mg,tablet,1,
+9,coloxyl with senna,docusate$sennosides,50mg$8mg,tablet,1,
+10,viclofen,diclofenac,25mg,tablet,1,
+11,viclofen,diclofenac,25mg,tablet,1,
+12,aspro clear,aspirin,300mg,tablet,1,
+13,aspro clear,aspirin,300mg,tablet,1,
+14,bisolvon chesty forte,bromhexine,8mg,tablet,1,
+15,cartia,aspirin,100mg,tablet,1,
+16,maxigesic,paracetamol$ibuprofen,500mg$150mg,tablet,1,
+17,maxigesic,paracetamol$ibuprofen,500mg$150mg,tablet,1,
+18,panadol with optizorb,paracetamol,500mg,tablet,1,
+19,panadol,paracetamol,500mg,tablet,1,
+20,nurofen,ibuprofen,200mg,tablet,1,
+21,solprin,aspirin,300mg,tablet,1,
+22,voltaren rapid 25,diclofenac,25mg,tablet,20,
+23,somac heartburn relief,pantoprazole,20mg,tablet,1,
+24,megafol 0.5,folic acid,0.5mg,tablet,1,
+25,megafol 5,folic acid,5mg,tablet,1,
+26,zyrtec rapid acting,cetirizine,10mg,tablet,1,
+27,telfast 120,fexofenadine,120mg,tablet,1,
+28,telfast 180,fexofenadine,180mg,tablet,1,
+29,claratyne hayfever & allergy,loratadine,10mg,tablet,1,
+30,aerius,desloratadine,5mg,tablet,1,
+31,chemists' own de worm,mebendazole,100mg,tablet,1,
+32,rennie spearmint flavour,calcium carbonate$magnesium carbonate,680mg$80mg,tablet,1,
+33,buscopan specialised relief,hyoscine butylbromide,10mg,tablet,1,
+34,imodium zapid,loperamide,2mg,tablet,1,
+35,gastro-stop plus,loperamide$simethicone,2mg$125mg,tablet,1,
+36,anagraine,metoclopramide$paracetamol,5mg$500mg,tablet,1,
+37,nausicalm,cyclizine,50mg,tablet,1,
+38,ferro tab,ferrous fumarate,200mg,tablet,1,
+39,ferro-f-tab,ferrous fumarate,310mg,tablet,1,
+40,ferrograd,ferrous sulfate,325mg,tablet,1,
+41,ferrograd c,"iron, vitamin c",,tablet,1,
+42,postella-1,levonorgestrel,1.5mg,tablet,1,
+43,postinor-1,levonorgestrel,1.5mg,tablet,1,
+44,polaramine tablets,dexchlorpheniramine maleate,2mg,tablet,1,
+45,ellaone,ulipristal acetate,30mg,tablet,1,
+46,nurofen zavance,ibuprofen,200mg,capsule,1,
+47,femzole one 150mg  ,fluconazole,150mg,capsule,1,
+48,de-gas,simethicone,100mg,capsule,1,
+49,charcocaps,activated charcoal,200mg,capsule,1,
+50,imodium capsules,loperamide,2mg,capsule,1,
+51,virasolve cold sore 5g,idoxuridine$lignocaine$benzalkonium chloride,5mg$20mg$5mg,cream,1,
+52,cold sore cream,aciclovir,5%w/w,cream,1,
+53,sudocrem healing cream 125g,zinc oxide,15.25%w/w,cream,1,
+54,nasalate cream 15g,phenylephrine$chlorhexidine gluconate,2.5mg$3mg,cream,1,
+55,hydrozole 30g,hydrocortisone$clotrimazole,1%w/w$1%w/w,cream,1,
+56,resolve plus 10 30g,miconazole nitrate$hydrocortisone,2%w/w$1%w/w,cream,1,
+57,eurax cream 20g,crotamiton,100mg/g,cream,1,
+58,dermaid 1% cream 30g,hydrocortisone,1%w/w,cream,1,
+59,lamisil cream 15g,terbinafine ,10mg/g,cream,1,
+60,canesten once daily bifonazole body cream 30g,bifonazole,10mg/g,cream,1,
+61,canesten once daily bifonazole athlete's foot cream 20g,bifonazole,10mg/g,cream,1,
+62,canesten clotrimazole anti-fungal cream 50g,clotrimazole,10mg/g,cream,1,
+63,dakta gold once daily cream 30g,ketoconazole$sodium sulfite,20mg/g$2mg/g,cream,1,
+64,daktarin cream 70g,benzoic acid$butylated hydroxyanisole,2mg/g$52mcg/g,cream,1,
+65,solveasy tinea cream 30g,terbinafine ,1%w/w,cream,1,
+66,pevaryl cream 20g,econazole nitrate,1%w/w,cream,1,
+67,resolve tinea 50g,miconazole nitrate,2%w/w,cream,1,
+68,canesten 6 day cream 35g,clotrimazole,10mg/g,cream,1,
+69,canesten 3 day cream 20g,clotrimazole,20mg/g,cream,1,
+70,clozole vaginal cream 35g,clotrimazole,10mg/g,cream,1,
+71,curash baby care anti rash 100g,zinc oxide,25%w/w,powder,1,
+72,daktarin powder 30g,miconazole nitrate,20mg/g,powder,1,
+73,panadol children's 1 mth - 2 years baby drops 20ml,paracetamol,100mg/1ml,mixture,1,
+74,nurofen for children baby 3+ months 50ml,ibuprofen,200mg/5ml,suspension,1,
+75,nurofen for children 5-12 years 200ml,ibuprofen,200mg/5ml,suspension,1,
+76,panadol children's 1-5 years colourfree 100ml,paracetamol,24mg/ml,suspension,1,
+77,panadol children's 1-5 years colourfree 200ml,paracetamol,24mg/ml,suspension,1,
+78,panadol children's 5-12 years colourfree 100ml,paracetamol,48mg/ml,suspension,1,
+79,panadol children's 5-12 years colourfree 200ml,paracetamol,48mg/1ml,suspension,1,
+80,dulcogas relieves gas and bloating,simethicone,125mg,sachet,1,
+81,gaviscon infant,sodium alginate$magnesium alginate,225mg$87.5mg,sachet,1,
+82,earclear ear ache relief 15ml,phenazone$benzoncaine,5.4%$1.4%,ear drop,1,
+83,earclear ear wax remover 12ml,carbamide peroxide,65mg,ear drop,1,
+84,aqua ear solution 35ml,acetic acid-glacial$isopropyl alcohol,17.3mg/ml$634mg/ml,ear drop,1,
+85,auralgan ear drops 15ml,phenazone$benzoncaine,54mg$14mg,ear drop,1,
+86,waxol ear drops 10ml,docusate,0.5%w/v,ear drop,1,
+87,refresh tears plus 15ml,carmellose,5mg,eye drop,1,
+88,refresh preservative free eye drops 0.4ml,polyvinyl alcohol$povidone,14mg$6mg,eye drop,1,
+89,visine advanced 15ml,tetrahydrozoline,0.05%w/v,eye drop,1,
+90,murine clear eyes 15ml,naphazoline hcl,0.12mg/ml,eye drop,1,
+91,murine sore eyes 15ml,tetrahydrozoline,0.5mg/ml,eye drop,1,
+92,liquifilm tears 15ml,polyvinyl alcohol,14mg,eye drop,1,
+93,celluvisc lubricant eye drops intensive dry eye treatment 0.4ml,carmellose,10mg,eye drop,1,
+94,bion tears lubricant eye drops dry eyes 0.4ml,dextran$hypromellose,1mg/ml$3mg/ml,eye drop,1,
+95,celluvisc lubricant eye drops long lasting dry eye relief 0.4ml,carmellose,5mg,eye drop,1,
+96,genteal moisturising  eye drops 15ml,hypromellose,3mg/g,eye drop,1,
+97,optive lubricant eye drops 15ml,carmellose$glycerin,5mg/ml$9mg/ml,eye drop,1,
+98,naphcon-a allergy eye relief 15ml,naphazoline $pheniramine maleate,0.25mg/ml$3mg/ml,eye drop,1,
+99,poly gel lubricating eye gel 0.5g,carbomer,3mg/g,eye gel,1,
+100,genteal moisturising  eye gel 10g,hypromellose$carbomer 980,3mg/g$2.2mg/g,eye gel,1,
+101,rhinocort hayfever 60 sprays,budesonide,32mcg,nasal spray,1,
+102,sudafed nasal decongestant,oxymetazoline ,500mcg/ml,nasal spray,1,
+103,fess nasal spray 75ml,sodium chloride,9mg/ml,nasal spray,1,
+104,otrivin plus 10ml,xylometazoline$ipratroium bromide,0.5mg/ml$0.6mg/ml,nasal spray,1,
+105,drixine decongesant - 12hr relief 15ml,oxymetazoline ,500mcg/ml,nasal spray,1,
+106,fess little noses spray 15ml,sodium chloride,9mg/ml,nasal spray,1,
+107,otrivin 10ml,xylometazoline ,1mg/ml,nasal spray,1,
+108,otrivin junior 10ml,xylometazoline ,0.5mg/ml,nasal spray,1,
+109,strepsils,dichlorobenzyl alcohol$amylmetacresol ,1.2mg$600mcg,lozenge,1,
+110,difflam plus,benzydamine $lignocaine$ dichlorobenzyl alcohol ,3mg$4mg$1.2mg,lozenge,1,
+111,canesten 6 day pessary,clotrimazole,100mg,pessary,1,
+112,anusol ointment 50g ,zinc oxide$peru balsam$benzyl benzoate,10.75%w/w$1.88%w/w$1.25%w/w,ointment,1,
+113,proctosedyl ointment 15g,hydrocortisone$cinchocaine,5mg$5mg,ointment,1,
+114,microlax 5ml,sodium citrate$sodium lauryl sulfoacetate$sorbitol,90mg/ml$9mg/ml$625mg/ml,enema,1,
+115,bonjela 15g ,choline salicylate,87mg/g,gel,1,
+116,sedagel 30g,choline salicylate$menthol $cetalkonium chloride,8.7%w/w$0.057%w/w$0.01%w/w,gel,1,
+117,benzac ac 2.5% 50g ,benzoyl peroxide,25mg/g,gel,1,
+118,benzac ac 5% 50g ,benzoyl peroxide,50mg/g,gel,1,
+119,benzac ac 10% 50gm,benzoyl peroxide,100mg/g,gel,1,
+120,soov bite 25g,lignocaine$cetrimide,3%w/w$0.5%w/w,gel,1,
+121,difflam mouth gel 10g,benzydamine$cetylpyridium chloride,10mg$1mg,gel,1,
+122,vicks inhaler 0.5ml,menthol$camphor,197mg$197mg,inhaler,1,
+123,solveasy tinea spray 16ml,terbinafine,1%w/w,spray,1,
+124,oral-eze dental emergency toothache medication 5ml,benzocaine$clove bud oil$ethanol,7.5%w/v$19.0%v/v$18.0%v/v,solution,1,
+125,kp 24 medicated foam 100ml,malathion,1%w/w,solution,1,
+126,benzac ac wash 130ml,benzoyl peroxide,50mg/g,rinse,1,
+127,bisolvon chesty 250ml,bromhexine ,4mg,liquid,1,
+128,coloxyl oral drops 30ml,poloxamer,100mg/ml,liquid,1,
+129,dymadon 1m - 2y 60ml,paracetamol,50mg/ml,liquid,1,
+130,dymadon 2-12 y 100ml,paracetamol,250mg,liquid,1,
+131,loceryl nail lacquer,amorolfine,5%w/v,liquid,1,
+132,duofilm solution 15ml,salicylic acid$lactic acid,16/7%w/w$16.7%w/w,liquid,1,
+133,apo health children's paracetamol 6-12 yrs 200ml,paracetamol,48mg/ml,oral liquid,1,
+134,femzole duo 1 capsule/10g cream ,fluconazole$clotrimazole,150mg$10mg/g,other,1,
+135,panadol extra optizorb,paracetamol$caffeine,500mg$65mg,caplet,1,
+136,glucobay,acarbose,50mg,tablet,90,(bn)
+137,glucobay,acarbose,100mg,tablet,90,(bn)
+138,zovirax,aciclovir,200mg,tablet,90,(gk)
+139,zyloprim,allopurinol,300mg,tablet,60,(si)
+140,kalma,alprazolam,0.25mg,tablet,50,(af)
+141,kalma,alprazolam,0.5mg,tablet,50,(af)
+142,xanax,alprazolam,0.25mg,tablet,50,(pf)
+143,xanax,alprazolam,0.5mg,tablet,30,(pf)
+144,xanax,alprazolam,1mg,tablet,50,(pf)
+145,xanax tabri-score,alprazolam,2mg,tablet,50,(pf)
+146,actilyse,alteplase,10mg,powder,1,(..)
+147,actilyse,alteplase,50mg,powder,1,(..)
+148,symmetrel,amantadine hcl,100mg,capsule,100,(nv)
+149,novadoz,abiraterone acetate,250mg,tablet,120,
+150,norvasc,amlodipine,10mg,tablet,30,(pf)
+151,norvasc,amlodipine,5mg,tablet,30,(pf)
+152,amoxycillin sandoz,amoxycillin,875mg,tablet,100,
+153,amoxycillin sandoz,amoxycillin,125mg/5ml,oral suspension,1,
+154,amoxycillin sandoz,amoxycillin,200mg/5ml,oral suspension,1,
+155,amoxycillin sandoz,amoxycillin,250mg/5ml,oral suspension,1,
+156,amoxycillin sandoz,amoxycillin,400mg/5ml,oral suspension,1,
+157,amoxycillin sandoz,amoxycillin,500mg,tablet,14,(bg)
+158,amoxil,amoxycillin,250mg,capsule,20,(gk)
+159,amoxil paediatric,amoxycillin,100mg/ml,syrup,1,(gk)
+160,cm amoxycillin/clav,amoxycillin$clavulanic acid,875mg$125mg,tablet,10,(ch)
+161,maxamox bc,amoxycillin,1000mg,tablet,1,(sz)
+162,tw amoxycillin,amoxycillin,500mg,capsule,20,(tw)
+163,amoxil sachet,amoxycillin,3g,sachet,,(gk)
+164,arimidex,anastrozole,1mg,tablet,30,(ap)
+165,eliquis,apixaban,2.5mg,tablet,60,(..)
+166,eliquis,apixaban,5mg,tablet,60,(bs)
+167,iopidine ,apraclonidine,5mg/ml,eye drop,1,(aq)
+168,abilify,aripiprazole,20mg,tablet,30,(bq)
+169,abilify,aripiprazole,15mg,tablet,30,(bq)
+170,abilify,aripiprazole,30mg,tablet,30,(bq)
+171,abilify,aripiprazole,10mg,tablet,30,(bq)
+172,terry white,atenolol,50mg,tablet,30,(tw)
+173,lipitor,atorvastatin,10mg,tablet,28,(pf)
+174,lipitor,atorvastatin,20mg,tablet,28,(pf)
+175,lipitor,atorvastatin,40mg,tablet,28,(pf)
+176,zithromax,azithromycin,250mg,tablet,30,(pf)
+177,imuran,azathioprine,50mg,tablet,100,(as)
+178,imuran,azathioprine,25mg,tablet,100,(as)
+179,zithromax,azithromycin,600mg,tablet,30,(pf)
+180,zithromax,azithromycin,500mg,tablet,50,(pf)
+181,qvar 100,beclomethasone,100mcg,inhaler,1,(ia)
+182,benpen,benzylpenicillin,600mg,injection,1,(..)
+183,serc,betahistine,16mg,tablet,25,(sm)
+184,lexotan,bromazepam,3mg,tablet,30,(ro)
+185,pulmicort,budesonide,100mcg,turbuhaler,1,(ap)
+186,pulmicort,budesonide,200mcg,turbuhaler,1,(ap)
+187,symbicort,budesonide$eformoterol,200mcg$6mcg,turbuhaler,1,(ap)
+188,symbicort,budesonide$eformoterol,400mcg$12mcg,turbuhaler,1,(ap)
+189,symbicort,budesonide$eformoterol,100mcg$6mcg,turbuhaler,1,(ap)
+190,norspan,buprenorphine,5mcg,patch,2,(mf)
+191,dostinex,cabergoline,500mcg,tablet,2,(pf)
+192,rocaltrol,calcitriol,0.25mcg,capsule,100,(ro)
+193,atacand,candesartan,4mg,tablet,30,(ap)
+194,capecitabine apotex,capecitabine,500mg,tablet,120,(apo)
+195,capecitabine (drla),capecitabine,150mg,tablet,60,(da)
+196,viscotears,carbomer,2mg/g,eye gel,1,(nv)
+197,poly gel,carbomer,3mg/g,eye gel,1,(aq)
+198,refresh tears plus,carmellose,5mg,eye drop,1,(ag)
+199,refresh liquigel,carmellose,10mg,eye drop,1,(ag)
+200,cefepime-aft,cefepime ,1g,powder,1,(..)
+201,ceftriaxone-aft,ceftriaxone,2g,powder,1,(..)
+202,zinnat,cefuroxime,250mg,tablet,20,(gk)
+203,celebrex,celecoxib,100mg,capsule,10,(pf)
+204,celebrex,celecoxib,200mg,capsule,30,(pf)
+205,rancef,cephalexin,500mg,capsule,20,(ra)
+206,largactil,chlorpromazine,25mg,tablet,100,(sw)
+207,largactil,chlorpromazine ,50mg,ampoules,10,(..)
+208,sandimmun,ciclosporin,250mg/5ml,ampoules,10,(..)
+209,cifran,ciprofloxacin,500mg,tablet,14,(ra)
+210,cifran,ciprofloxacin,750mg,tablet,14,(ra)
+211,klacid,clarithromycin,500mg,tablet,30,(ab)
+212,dalacin c,clindamycin,150mg,capsule,100,(pz)
+213,rivotril,clonazepam,500mcg,tablet,100,(ro)
+214,rivotril,clonazepam,2mg,tablet,100,(ro)
+215,rivotril,clonazepam,2.5mg/ml,mixture,1,(ro)
+216,rivotril,clonazepam,1mg/1ml,ampoules,10,(..)
+217,cyclizine lactate,cyclizine lactate,50mg,ampoules,5,(..)
+218,valium,diazepam,2mg,tablet,50,(ro)
+219,valium,diazepam,5mg,tablet,50,(ro)
+220,solaraze,diclofenac,3%w/w,gel,1,(cs)
+221,diclocil,dicloxacillin,500mg,capsule,24,(bq)
+222,triumeq,dolutegravir$abacavir$lamivudine,50mg$600mg$300mg,tablet,30,(..)
+223,juluca,dolutegravir$rilpivirine,50mg$25mg,tablet,30,(..)
+224,vibramycin,doxycycline,100mg,tablet,7,(pf)
+225,doryx,doxycycline,50mg,capsule,25,(yn)
+226,doryx,doxycycline,100mg,capsule,7,(yn)
+227,doryx,doxycycline,100mg,capsule,21,(yn)
+228,restavit,doxylamine succinate,25mg,tablet,20,
+229,restavit,doxylamine succinate,25mg,tablet,20,
+230,renitec,enalapril,10mg,tablet,30,(mk)
+231,inspra,eplerenone,25mg,tablet,30,(pf)
+232,eryc,erythromycin,250mg,capsule,25,(yn)
+233,mayne pharma erythromycin,erythromycin,250mg,capsule,25,(yt)
+234,estradot 25,oestradiol:estradiol,25mcg,patch,1,(nv)
+235,estradot 37.5,oestradiol:estradiol,37.5mcg,patch,1,(nv)
+236,estradot 50,oestradiol:estradiol,50mcg,patch,1,(nv)
+237,estradot 75,oestradiol:estradiol,75mcg,patch,1,(nv)
+238,estradot 100,oestradiol:estradiol,100mcg,patch,1,(nv)
+239,ezetrol,ezetimibe,10mg,tablet,30,(mk)
+240,famvir,famciclovir,250mg,tablet,56,(nv)
+241,famvir,famciclovir,125mg,tablet,40,(nv)
+242,famvir,famciclovir,500mg,tablet,3,(nv)
+243,famvir,famciclovir,250mg,tablet,21,(nv)
+244,famciclovir sandoz,famciclovir,250mg,tablet,30,(sz)
+245,lipidil,fenofibrate,48mg,tablet,60,(sm)
+246,lipidil,fenofibrate,145mg,tablet,30,(sm)
+247,tambocor,flecainide acetate,100mg,tablet,60,(ia)
+248,flopen,flucloxacillin,500mg,capsule,24,(as)
+249,staphylex,flucloxacillin,250mg,capsule,24,(af)
+250,staphylex,flucloxacillin,500mg,capsule,24,(af)
+251,floxapen,flucloxacillin,250mg/5ml,syrup,1,(gk)
+252,flucon,fluorometholone,1mg/ml,eye drop,1,(aq)
+253,lovan,fluoxetine,20mg,tablet,28,(al)
+254,lovan,fluoxetine,20mg,capsule,28,(al)
+255,flixotide junior,fluticasone,100mcg,accuhaler,1,(gk)
+256,flixotide,fluticasone,250mcg,accuhaler,1,(gk)
+257,flixotide,fluticasone,500mcg,accuhaler,1,(gk)
+258,seretide,fluticasone$salmeterol,250mcg$50mcg,accuhaler,1,(gk)
+259,seretide,fluticasone$salmeterol,500mcg$50mcg,accuhaler,1,(gk)
+260,vastin,fluvastatin,20mg,capsule,28,(nm)
+261,vastin,fluvastatin,40mg,capsule,28,(nm)
+262,luvox,fluvoxamine,100mg,tablet,30,(sm)
+263,faverin,fluvoxamine,100mg,tablet,30,(si)
+264,luvox,fluvoxamine,50mg,tablet,30,(sm)
+265,fucidin,fusidic acid,250mg,tablet,36,(cs)
+266,amaryl,glimepiride,1mg,tablet,30,(sw)
+267,amaryl,glimepiride,2mg,tablet,30,(sw)
+268,amaryl,glimepiride,4mg,tablet,30,(sw)
+269,amaryl,glimepiride,3mg,tablet,30,(sw)
+270,minidiab,glipizide,5mg,tablet,100,(pf)
+271,transiderm nitro 25,glyceryl trinitrate,25mg,patch,1,(nv)
+272,glycopyrronium,glycopyrronium ,200mcg/1ml,injection,10,
+273,isopto homatropine,homatropine,2%,eye drop,1,(aq)
+274,hysone,hydrocortisone,20mg,tablet,60,(af)
+275,in a wink,hypromellose,3mg/g,eye drop,1,(nm)
+276,rafen,ibuprofen,200mg,tablet,1,(af)
+277,tolerade 25,imipramine,25mg,tablet,50,(pq)
+278,indocid,indometacin,25mg,capsule,50,(as)
+279,indocid,indometacin,100mg,suppository,20,(as)
+280,ferrum h,iron polymaltose,318mg,injection,1,(as)
+281,roaccutane,isotretinoin,20mg,capsule,60,(ro)
+282,oruvail,ketoprofen,200mg,capsule,28,(av)
+283,lamictal,lamotrigine,50mg,tablet,56,(gk)
+284,lamictal,lamotrigine,100mg,tablet,56,(gk)
+285,arava,leflunomide,20mg,tablet,30,(sw)
+286,keppra,levetiracetam,250mg,tablet,60,(uc)
+287,keppra,levetiracetam,500mg,tablet,60,(uc)
+288,keppra,levetiracetam,1000mg,tablet,60,(uc)
+289,madopar rapid 62.5,levodopa$benserazide,50mg$12.5mg,tablet,100,(ro)
+290,madopar,levodopa$benserazide,200mg$50mg,tablet,100,(ro)
+291,madopar 62.5,levodopa$benserazide,50mg$12.5mg,capsule,100,(ro)
+292,quilonum,lithium carbonate,450mg,tablet,100,(gk)
+293,provera,medroxyprogesterone,10mg,tablet,100,(pf)
+294,lariam,mefloquine,250mg,tablet,8,(ro)
+295,circadin,melatonin,2mg,tablet,30,
+296,purinethol,mercaptopurine,50mg,tablet,25,(as)
+297,glucophage,metformin,850mg,tablet,60,(mq)
+298,ritalin la,methylphenidate,20mg,capsule,30,(nv)
+299,maxolon,metoclopramide,10mg,tablet,25,(vt)
+300,flagyl,metronidazole,200mg,tablet,21,(sw)
+301,flagyl,metronidazole,400mg,tablet,21,(sw)
+302,minomycin,minocycline,50mg,tablet,60,(si)
+303,nasonex,mometasone furoate,50mcg,nasal spray,1,(sh)
+304,ms contin,morphine sulphate,100mg,tablet,28,(mf)
+305,ms contin,morphine sulphate,10mg,tablet,28,(mf)
+306,ms contin,morphine sulphate,30mg,tablet,28,(mf)
+307,ms contin,morphine sulphate,5mg,tablet,28,(mf)
+308,revia,naltrexone,50mg,tablet,30,(bq)
+309,naprosyn,naproxen,250mg,tablet,50,(ro)
+310,naprosyn,naproxen,500mg,tablet,50,(ro)
+311,naprosyn,naproxen,1000mg,tablet,28,(ro)
+312,naprosyn,naproxen,750mg,tablet,28,(ro)
+313,anaprox,naproxen,550mg,tablet,50,(ro)
+314,mogadon,nitrazepam,5mg,tablet,25,(vt)
+315,noroxin,norfloxacin,400mg,tablet,14,(mk)
+316,sandrena,oestradiol,1mg,sachet,28,(sh)
+317,estraderm 50 patches -8,oestradiol,50mcg,patch,8,(nv)
+318,kliogest 28,oestradiol$norethisterone,2mg$1mg,tablet,30,(no)
+319,kliovance 28,estradiol:oestradiol$norethisterone,1mg$0.5mg,tablet,30,(no)
+320,zyprexa,olanzapine,5mg,tablet,28,(ly)
+321,zyprexa,olanzapine,7.5mg,tablet,28,(ly)
+322,zyprexa,olanzapine,10mg,tablet,28,(ly)
+323,zyprexa,olanzapine,2.5mg,tablet,28,(ly)
+324,zyprexa zydis,olanzapine,5mg,wafer,28,(ly)
+325,zyprexa zydis,olanzapine,10mg,wafer,28,(ly)
+326,patanol,olopatadine,1mg/ml,eye drop,1,(aq)
+327,zofran,ondansetron,8mg,tablet,4,(gk)
+328,zofran,ondansetron,4mg,tablet,10,(gk)
+329,tamiflu,oseltamivir,75mg,capsule,10,(ro)
+330,serepax,oxazepam,15mg,tablet,25,(si)
+331,murelax,oxazepam,30mg,tablet,25,(fm)
+332,trental,oxpentifylline,400mg,tablet,50,(av)
+333,oxytrol,oxybutynin,3.9mg,patch,1,(hh)
+334,oxynorm,oxycodone,5mg,capsule,20,(mf)
+335,oxynorm,oxycodone,10mg,capsule,20,(mf)
+336,somac,pantoprazole,40mg,granules,30,(nq)
+337,pantoprazole sandoz,pantoprazole,40mg,powder,10,(..)
+338,permax,pergolide mesylate,1mg,tablet,100,(as)
+339,neulactil,pericyazine,2.5mg,tablet,100,(sw)
+340,neulactil,pericyazine,10mg,tablet,100,(sw)
+341,cilicaine vk,phenoxymethylpenicillin,500mg,capsule,50,(ap)
+342,cilicaine vk,phenoxymethylpenicillin,250mg,capsule,50,(ap)
+343,actos,pioglitazone,45mg,tablet,28,(ly)
+344,actos,pioglitazone,30mg,tablet,28,(ly)
+345,actos,pioglitazone,45mg,tablet,28,(ly)
+346,sifrol,pramipexole,0.125mg,tablet,30,(by)
+347,effient,prasugrel,10mg,tablet,28,(ly)
+348,minipress,prazosin,1mg,tablet,100,(pf)
+349,minipress,prazosin,5mg,tablet,100,(pf)
+350,lyrica,pregabalin,75mg,capsule,56,(pf)
+351,lyrica,pregabalin,150mg,capsule,56,(pf)
+352,lyrica,pregabalin,300mg,capsule,56,(pf)
+353,lyrica,pregabalin,25mg,capsule,56,(pf)
+354,prochlorperazine-apo,prochlorperazine,5mg,tablet,25,(tx)
+355,stemetil,prochlorperazine,5mg,suppository,1,(sw)
+356,seroquel,quetiapine,25mg,tablet,60,(ap)
+357,seroquel,quetiapine,100mg,tablet,90,(ap)
+358,seroquel,quetiapine,200mg,tablet,60,(ap)
+359,tritace,ramipril,10mg,tablet,30,(sw)
+360,triasyn ,ramipril$felodipine,5mg$5mg,tablet,30,(sw)
+361,edronax,reboxetine,4mg,tablet,60,(pf)
+362,risperdal quicklet,risperidone,4mg,tablet,28,(jc)
+363,xarelto,rivaroxaban,20mg,tablet,28,(bn)
+364,xarelto,rivaroxaban,15mg,tablet,42,(bn)
+365,xarelto,rivaroxaban,10mg,tablet,30,(sw)
+366,biaxsig,roxithromycin,300mg,tablet,5,(av)
+367,rulide,roxithromycin,300mg,tablet,5,(sw)
+368,renagel,sevelamer,800mg,tablet,180,(gz)
+369,sodium bicarbonate,sodium bicarbonate,8.40%,injection,10,(..)
+370,fucidin,sodium fusidate,2%w/w,ointment,1,(cs)
+371,sotacor,sotalol,80mg,tablet,60,(fm)
+372,solavert,sotalol ,80mg,tablet,60,(si)
+373,solavert,sotalol ,160mg,tablet,60,(si)
+374,aldactone,spironolactone,25mg,tablet,100,(pf)
+375,aldactone,spironolactone,100mg,tablet,100,(pf)
+376,sumatriptan,sumatripan,50mg,tablet,2,
+377,tamoxifen sandoz,tamoxifen,20mg,tablet,60,(sz)
+378,temazepam-apo,temazepam,10mg,tablet,25,(tx)
+379,lamisil,terbinafine,250mg,tablet,42,(nv)
+380,surgam,tiaprofenic acid,300mg,tablet,60,(sw)
+381,gopten,trandolapril,2mg,capsule,28,(ab)
+382,gopten,trandolapril,4mg,capsule,28,(ab)
+383,parnate,tranylcypromine,10mg,tablet,50,(gh)
+384,stelazine,trifluoperazine,1mg,tablet,100,(gh)
+385,stelazine,trifluoperazine,2mg,tablet,100,(gh)
+386,stelazine,trifluoperazine,5mg,tablet,100,(gh)
+387,alprim,trimethoprim,300mg,tablet,7,(af)
+388,valtrex,valaciclovir,500mg,tablet,42,(gk)
+389,valtrex,valaciclovir,1000mg,tablet,4,(gk)
+390,levitra,vardenafil,20mg,tablet,4,(bn)
+391,levitra,vardenafil,20mg,tablet,8,(bn)
+392,isoptin,verapamil,160mg,tablet,60,(ab)
+393,isoptin,verapamil,120mg,tablet,100,(ab)
+394,imovane,zopiclone,7.5mg,tablet,10,(av)
+395,imovane,zopiclone,7.5mg,tablet,30,(sw)
+396,ramipril,ramipril,1.25mg,tablet,500,(zg)
+397,ramipril,ramipril,2.5mg,tablet,500,(zg)
+398,ramipril,ramipril,5mg,tablet,500,(zg)
+399,ramipril,ramipril,10mg,tablet,500,(zg)
+400,prednisolone phosphate oral solution,prednisolone,25mg/5ml,oral solution,1,(ed)
+401,prednisolone phosphate oral solution,prednisolone,20mg/5ml,oral solution,1,(ed)
+402,prednisolone phosphate oral solution,prednisolone,15mg/5ml,oral solution,1,(ed)
+403,prednisolone phosphate oral solution,prednisolone,10mg/5ml,oral solution,1,(ed)
+404,geodon,ziprasidone,20mg,capsule,60,(pf)
+405,geodon,ziprasidone,60mg,capsule,60,(pf)
+406,geodon,ziprasidone,80mg,capsule,60,(pf)
+407,geodon,ziprasidone,40mg,capsule,60,(pf)
+408,gabapentin,gabapentin,100mg,capsule,100,(ac)
+409,gabapentin,gabapentin,300mg,capsule,100,(te)
+410,gabapentin,gabapentin,400mg,capsule,100,(te)
+411,azithromycin for oral suspension,azithromycin,100mg/5ml,oral suspension,1,(ch)
+412,azithromycin for oral suspension,azithromycin,200mg/5ml,oral suspension,1,(ch)
+413,verapamil hydrochloride sustained-release,verapamil,180mg,capsule,100,(te)
+414,verapamil hydrochloride sustained-release,verapamil,240mg,capsule,100,(te)
+415,verapamil hydrochloride sustained-release,verapamil,360mg,capsule,100,(te)
+416,ibuprofen,ibuprofen,600mg,tablet,60,
+417,ibuprofen,ibuprofen,800mg,tablet,30,
+418,ibuprofen,ibuprofen,400mg,tablet,30,
+419,ibuprofen,ibuprofen,600mg,tablet,30,
+420,ibuprofen,ibuprofen,800mg,tablet,30,
+421,decadron,dexamethasone,0.5mg,tablet,100,(pr)
+422,decadron,dexamethasone,0.75mg,tablet,100,(pr)
+423,decadron,dexamethasone,4mg,tablet,100,(pr)
+424,decadron,dexamethasone,6mg,tablet,100,(pr)
+425,imdur,isosorbide mononitrate,60mg,tablet,100,
+426,imdur,isosorbide mononitrate,120mg,tablet,100,
+427,imdur,isosorbide mononitrate,30mg,tablet,100,
+428,provera,medroxyprogesterone,2.5mg,tablet,100,(pf)
+429,provera,medroxyprogesterone,5mg,tablet,100,(pf)
+430,provera,medroxyprogesterone,10mg,tablet,100,(pf)
+431,metronidazole vaginal gel,metronidazole,0.75%,gel,1,(pa)
+432,metronidazole vaginal gel,metronidazole,1.30%,gel,1,(pa)
+433,apixaban,apixaban,2.5mg,tablet,180,(in)
+434,apixaban,apixaban,5mg,tablet,60,(in)
+435,caduet,amlodipine besylate$atorvastatin calcium,5mg$10mg,tablet,30,(pf)
+436,caduet,amlodipine besylate$atorvastatin calcium,5mg$20mg,tablet,30,(pf)
+437,caduet,amlodipine besylate$atorvastatin calcium,5mg$40mg,tablet,30,(pf)
+438,caduet,amlodipine besylate$atorvastatin calcium,5mg$80mg,tablet,30,(pf)
+439,caduet,amlodipine besylate$atorvastatin calcium,10mg$10mg,tablet,30,(pf)
+440,caduet,amlodipine besylate$atorvastatin calcium,10mg$20mg,tablet,30,(pf)
+441,caduet,amlodipine besylate$atorvastatin calcium,10mg$40mg,tablet,30,(pf)
+442,caduet,amlodipine besylate$atorvastatin calcium,10mg$80mg,tablet,30,(pf)
+443,caduet,amlodipine$atorvastatin,5mg$10mg,tablet,30,(pf)
+444,caduet,amlodipine$atorvastatin,5mg$20mg,tablet,30,(pf)
+445,caduet,amlodipine$atorvastatin,5mg$40mg,tablet,30,(pf)
+446,caduet,amlodipine$atorvastatin,5mg$80mg,tablet,30,(pf)
+447,caduet,amlodipine$atorvastatin,10mg$10mg,tablet,30,(pf)
+448,caduet,amlodipine$atorvastatin,10mg$20mg,tablet,30,(pf)
+449,caduet,amlodipine$atorvastatin,10mg$40mg,tablet,30,(pf)
+450,caduet,amlodipine$atorvastatin,10mg$80mg,tablet,30,(pf)
+451,zyloprim,allopurinol,100mg,tablet,90,(ca)
+452,zyloprim,allopurinol,300mg,tablet,90,(ca)
+453,aldactone,spironolactone,50mg,tablet,100,(pf)
+454,captorpril,captopril,12.5mg,tablet,100,(wo)
+455,captorpril,captopril,25mg,tablet,100,(wo)
+456,captorpril,captopril,50mg,tablet,100,(wo)
+457,captorpril,captopril,100mg,tablet,100,(wo)
+458,terazosin,terazosin,1mg,capsule,100,(ap)
+459,bumetanide,bumetanide,1mg,tablet,100,(sa)
+460,terazosin,terazosin,2mg,capsule,100,(ap)
+461,enalapril maleate,enalapril,2.5mg,tablet,100,(av)
+462,metolazone,metolazone,2.5mg,tablet,100,(sa)
+463,metolazone,metolazone,10mg,tablet,100,(sa)
+464,enalapril maleate,enalapril,10mg,tablet,100,(av)
+465,metolazone,metolazone,5mg,tablet,100,(sa)
+466,enalapril maleate,enalapril,5mg,tablet,100,(av)
+467,bumetanide,bumetanide,2mg,tablet,100,(sa)
+468,terazosin,terazosin,5mg,capsule,100,(ap)
+469,terazosin,terazosin,10mg,capsule,100,(ap)
+470,isosorbide dinitrate,isosorbide,5mg,tablet,100,(sa)
+471,isosorbide dinitrate,isosorbide,10mg,tablet,100,(sa)
+472,oxycodone hydrochloride,oxycodone,5mg,tablet,100,(al)
+473,oxycodone hydrochloride,oxycodone,15mg,tablet,100,(al)
+474,oxycodone hydrochloride,oxycodone,30mg,tablet,100,(al)
+475,enalapril maleate,enalapril,20mg,tablet,100,(av)
+476,isosorbide dinitrate,isosorbide,20mg,tablet,100,(sa)
+477,ranolazine extended-release,ranolazine,500mg,tablet,60,(av)
+478,ranolazine extended-release,ranolazine,1000mg,tablet,60,(av)
+479,benzonatate,benzonatate,100mg,capsule,100,(pr)
+480,benzonatate,benzonatate,200mg,capsule,100,(pr)
+481,carbamazepine extended-release,carbamazepine,100mg,tablet,100,(ca)
+482,carbamazepine extended-release,carbamazepine,200mg,tablet,100,(ca)
+483,carbamazepine extended-release,carbamazepine,400mg,tablet,100,(ca)
+484,clopidogrel,clopidogrel,75mg,tablet,90,
+485,venlafaxine extended-release,venlafaxine,75mg,tablet,30,
+486,venlafaxine extended-release,venlafaxine,150mg,tablet,30,
+487,venlafaxine extended-release,venlafaxine,225mg,tablet,30,
+488,fesoterodine fumarate extended-release,fesoterodine,4mg,tablet,30,(ca)
+489,fesoterodine fumarate extended-release,fesoterodine,8mg,tablet,30,(ca)
+490,inderalxl,propranolol,80mg,capsule,30,(an)
+491,inderalxl,propranolol,120mg,capsule,30,(an)
+492,ezetimibe and simvastatin,ezetimibe$simvastatin,10mg$10mg,tablet,30,(gl)
+493,ezetimibe and simvastatin,ezetimibe$simvastatin,10mg$20mg,tablet,30,(gl)
+494,ezetimibe and simvastatin,ezetimibe$simvastatin,10mg$40mg,tablet,30,(gl)
+495,ezetimibe and simvastatin,ezetimibe$simvastatin,10mg$80mg,tablet,30,(gl)
+496,metoprolol tartrate,metoprolol,25mg,tablet,30,(al)
+497,metoprolol tartrate,metoprolol,50mg,tablet,30,(al)
+498,metoprolol tartrate,metoprolol,100mg,tablet,30,(al)
+499,metoprolol succinate extended-release,metoprolol,25mg,tablet,30,(ca)
+500,metoprolol succinate extended-release,metoprolol,100mg,tablet,30,(ca)
+501,metoprolol succinate extended-release,metoprolol,200mg,tablet,30,(ca)
+502,metoprolol succinate extended-release,metoprolol,50mg,tablet,30,(ca)
+503,methylphenidate hydrochloride,methylphenidate,5mg,tablet,100,(sun)
+504,methylphenidate hydrochloride,methylphenidate,10mg,tablet,100,(sun)
+505,methylphenidate hydrochloride,methylphenidate,20mg,tablet,100,(sun)
+506,pregabalin,pregabalin,25mg,capsule,30,(al)
+507,pregabalin,pregabalin,50mg,capsule,30,(al)
+508,pregabalin,pregabalin,75mg,capsule,30,(al)
+509,pregabalin,pregabalin,100mg,capsule,30,(al)
+510,pregabalin,pregabalin,150mg,capsule,30,(al)
+511,pregabalin,pregabalin,200mg,capsule,30,(al)
+512,pregabalin,pregabalin,225mg,capsule,30,(al)
+513,pregabalin,pregabalin,300mg,capsule,30,(al)
+514,spironolactone,spironolactone,100mg,tablet,90,(re)
+515,venlafaxine hydrochloride extended-release,venlafaxine,37.5mg,capsule,30,(epic)
+516,venlafaxine hydrochloride extended-release,venlafaxine,75mg,capsule,30,(epic)
+517,venlafaxine hydrochloride extended-release,venlafaxine,150mg,capsule,30,(epic)
+518,trazodone hydrochloride,trazodone,50mg,tablet,100,(sun)
+519,trazodone hydrochloride,trazodone,100mg,tablet,100,(sun)
+520,trazodone hydrochloride,trazodone,150mg,tablet,100,(sun)
+521,zolmitriptan,zolmitriptan,2.5mg,tablet,6,(ri)
+522,zolmitriptan,zolmitriptan,5mg,tablet,3,(ri)
