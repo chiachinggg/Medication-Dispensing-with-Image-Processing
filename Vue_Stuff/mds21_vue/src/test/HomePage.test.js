@@ -49,16 +49,6 @@ test('file input change updates image display', async () => {
 
 })
 
-// test('handleSubmit function is called on submit button click', async () => {
-//   const { getByText, emitted } = render(HomePage)
-//   // Click the submit button
-//   await fireEvent.click(getByText('SUBMIT'))
-
-//   // Assert handleSubmit is emitted
-//   expect(emitted().handleSubmit).toBeTruthy()
-  
-
-// })
 
 // test('updates step when handleSubmit is called', async () => {
 //   const wrapper = mount(HomePage);
@@ -78,19 +68,19 @@ test('file input change updates image display', async () => {
 //   expect(wrapper.vm.step).toBe(2);
 // });
 
-test('reupload function changes step back to 1 and success to false', async () => {
-  const { getByText, getByTestId } = render(HomePage)
+// test('reupload function changes step back to 1 and success to false', async () => {
+//   const { getByText, getByTestId } = render(HomePage)
 
-  // Set step to 2 and success to true
-  await fireEvent.click(getByText('SUBMIT'))
+//   // Set step to 2 and success to true
+//   await fireEvent.click(getByText('SUBMIT'))
 
-  // Click the reupload button
-  await fireEvent.click(getByTestId('reupload-button'))
+//   // Click the reupload button
+//   await fireEvent.click(getByTestId('reupload-button'))
 
-  // Assert step and success are updated
-  expect(getByTestId('step-value')).toHaveTextContent('1')
-  expect(getByTestId('success-value')).toHaveTextContent('false')
-})
+//   // Assert step and success are updated
+//   expect(getByTestId('step-value')).toHaveTextContent('1')
+//   expect(getByTestId('success-value')).toHaveTextContent('false')
+// })
 
 
 

@@ -46,7 +46,7 @@
         Please try again
       </FlexRow>
       <FlexRow class="justify-content-center pt-3">
-        <button class="btn btn-mds" @click="reupload()" data-testid="reupload-button">REUPLOAD IMAGE</button>
+        <button class="btn btn-mds" @click="reupload()"data-testid="reupload-button">REUPLOAD IMAGE</button>
       </FlexRow>
     </FlexCol>
   </div>
