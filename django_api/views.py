@@ -123,7 +123,7 @@ def store_image(request):
     if success:
         return Response({"message": "Image stored successfully", "result": result, "error": None})
     else:
-        return Response({"message": "haha nub", "error": "Failed to store image"})
+        return Response({"message": "Image cannot be read", "error": "Failed to store image"})
 
 
 
