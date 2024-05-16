@@ -9,6 +9,9 @@
         <img ref="imgDisplay" id="medication" src="@/assets/image.png" />
       </div>
     </FlexRow>
+    <FlexRow v-if="reuploadFail === true" class="w-100 justify-content-center pt-5 pb-5 text-danger">
+      *No image selected, please reupload
+    </FlexRow>
     <FlexRow class="pt-5">
       <FlexCol class="col-6 pe-2">
         <label for="input-file"><div class="pt-1">UPLOAD FILE</div></label>
@@ -42,7 +45,7 @@
   >
     <FlexCol>
       <FlexRow class="text-center">
-        Image upload process has failed...<br />
+        {{ errorMsg }}<br />
         Please try again
       </FlexRow>
       <FlexRow class="justify-content-center pt-3">
@@ -61,7 +64,6 @@
         <img :src="tempBlobUrl" alt="result-image"/>
       </FlexRow>
       <FlexRow class="fs-4 fw-bold justify-content-center"> Dosage: {{ dosage }} </FlexRow>
-      <FlexRow class="fs-4 fw-bold justify-content-center"> Side Effects: xxxxxx </FlexRow>
       <FlexRow class="pt-4 justify-content-center">
         <button class="btn btn-mds" @click="reupload()">UPLOAD A NEW IMAGE</button>
       </FlexRow>
@@ -78,26 +80,36 @@ import { storeImageToFolder } from '@/utils/api.js'
 const success = ref(false)
 const loading = ref(false)
 const step = ref(1)
+const reuploadFail = ref(false)
+const reuploadText = ref(false)
 
 const imgDisplay = ref(null)
 const tempBlobUrl = ref(null)
 const inputFile = ref(null)
+const errorMsg = ref("")
 
 const api = ref(null)
 const dosage = ref(null)
 
 function inputChanged() {
+  reuploadText.value = true
   const file = inputFile.value.files[0]
   if (file) {
     imgDisplay.value.src = URL.createObjectURL(file)
     tempBlobUrl.value = imgDisplay.value.src
+    reuploadFail.value = false
     console.log(tempBlobUrl.value)
+  } else {
+    imgDisplay.value.src = "@/assets/image.png"
+    tempBlobUrl.value = null
+    reuploadFail.value = true
   }
 }
 
 function reupload() {
   step.value = 1
   success.value = false
+  tempBlobUrl.value = null
 }
 
 function handleSubmit() {
@@ -108,22 +120,6 @@ function handleSubmit() {
 function storeImgToFolder(){
   const file = inputFile.value.files[0]
   console.log(file.type)
-
-  // const formData = new FormData();
-  // formData.append('image', file)
-
-  // try {
-  //   const response = await axios.post('/store_image/', formData, {
-  //     headers: {
-  //       'Content-Type': 'multipart/form-data'
-  //     }
-  //   });
-  //   console.log('Image uploaded successfully', response.data);
-  //   success.value = true
-  // } catch (error) {
-  //   console.error('Error uploading image:', error);
-  //   success.value = false
-  // }
   
   const reader = new FileReader()
   reader.readAsDataURL(file)
@@ -134,6 +130,7 @@ function storeImgToFolder(){
       step.value = 2
       if (res.error) {
         success.value = false
+        errorMsg.value = res.message
       } else {
         if (res.result[0].length === 1){
           api.value = res.result[0][0]

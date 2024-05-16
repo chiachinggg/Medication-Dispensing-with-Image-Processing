@@ -120,10 +120,13 @@ def store_image(request):
         if len(result[0]) > 0 and result[1] != "":
             success = True
 
+        else:
+            return Response({"message": "Text extraction unsuccessful", "error": "Failed to extract text"})
+
     if success:
         return Response({"message": "Image stored successfully", "result": result, "error": None})
     else:
-        return Response({"message": "Image cannot be read", "error": "Failed to store image"})
+        return Response({"message": "Failed to receive image", "error": "Failed to receive image"})
 
 
 
