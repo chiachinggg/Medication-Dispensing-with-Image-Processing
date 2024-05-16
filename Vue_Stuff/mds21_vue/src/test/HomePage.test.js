@@ -50,6 +50,33 @@ test('file input change updates image display', async () => {
 })
 
 
+
+// test('file input only accepts jpg, png, jpeg files', async () => {
+//   const { getByLabelText } = render(HomePage);
+
+//   // Mock a jpg file selection
+//   const jpgFile = new File(['(⌐□_□)'], 'test.jpg', { type: 'image/jpeg' });
+//   fireEvent.change(getByLabelText('UPLOAD FILE'), { target: { files: [jpgFile] } });
+//   expect(getByLabelText('UPLOAD FILE').files[0].type).toBe('image/jpeg');
+
+//   // Mock a png file selection
+//   const pngFile = new File(['(⌐□_□)'], 'test.png', { type: 'image/png' });
+//   fireEvent.change(getByLabelText('UPLOAD FILE'), { target: { files: [pngFile] } });
+//   expect(getByLabelText('UPLOAD FILE').files[0].type).toBe('image/png');
+
+//   // Mock a jpeg file selection
+//   const jpegFile = new File(['(⌐□_□)'], 'test.jpeg', { type: 'image/jpeg' });
+//   fireEvent.change(getByLabelText('UPLOAD FILE'), { target: { files: [jpegFile] } });
+//   expect(getByLabelText('UPLOAD FILE').files[0].type).toBe('image/jpeg');
+
+//   // Mock a non-supported file selection
+//   const txtFile = new File(['(⌐□_□)'], 'test.txt', { type: 'text/plain' });
+//   fireEvent.change(getByLabelText('UPLOAD FILE'), { target: { files: [txtFile] } });
+//   expect(getByLabelText('UPLOAD FILE').files.length).toBe(0);
+// });
+
+
+
 // test('updates step when handleSubmit is called', async () => {
 //   const wrapper = mount(HomePage);
   
